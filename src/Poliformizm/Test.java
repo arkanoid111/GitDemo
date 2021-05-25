@@ -5,7 +5,7 @@ public class Test {
 		car.driving();
 		System.out.println(car.getNumOfSeets());
 	}
-
+// user2 add the comment1
 	public static void main(String[] args) {
 		Test main=new Test();
 		main.useCar(new Car());

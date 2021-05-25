@@ -5,7 +5,7 @@ public class Car {
 		System.out.println("driving");
 	}
 	int numOfseets=4;
-	
+	// user2 add the comment2
 	public int getNumOfSeets() {
 		return numOfseets;
 	}
